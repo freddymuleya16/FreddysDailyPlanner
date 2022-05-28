@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eed055ad-97c8-4615-87fe-2303d4a5c98d": {
+      "ProjectGuid": "eed055ad-97c8-4615-87fe-2303d4a5c98d",
+      "DisplayName": "FreddysDailyPlanner",
+      "ColorIndex": 0
+    },
+    "7f1fa86c-a968-4dbe-a06b-31be3086ed8f": {
+      "ProjectGuid": "7f1fa86c-a968-4dbe-a06b-31be3086ed8f",
+      "DisplayName": "FreddysDailyPlanner.Android",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
