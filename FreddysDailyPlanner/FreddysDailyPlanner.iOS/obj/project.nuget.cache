@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "seQvzp0sgN3yPmhwnTFYLcjFoKDq64ZE0k9EacYYehDsrlGyj7qZJHujqeOF/7cQH09afa+x27G3/kqSj6Anhw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Azure\\Development\\FreddysDailyPlanner\\FreddysDailyPlanner.iOS\\FreddysDailyPlanner.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fredrix\\.nuget\\packages\\dryioc.dll\\4.7.7\\dryioc.dll.4.7.7.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\dynamicdata\\7.5.2\\dynamicdata.7.5.2.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\plugin.cloudfirestore\\4.1.0\\plugin.cloudfirestore.4.1.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\prism.dryioc.forms\\8.1.97\\prism.dryioc.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\prism.forms.regions\\8.1.97\\prism.forms.regions.8.1.97.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\reactiveui\\17.1.50\\reactiveui.17.1.50.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\reactiveui.xamforms\\17.1.50\\reactiveui.xamforms.17.1.50.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\splat\\14.1.45\\splat.14.1.45.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.0\\xamarin.communitytoolkit.2.0.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\xamarin.firebase.ios.cloudfirestore\\1.19.0\\xamarin.firebase.ios.cloudfirestore.1.19.0.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\xamarin.firebase.ios.core\\6.10.4\\xamarin.firebase.ios.core.6.10.4.nupkg.sha512",
+    "C:\\Users\\Fredrix\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.7.1 to 1.7.0. Reference the package directly from the project to select a different version. \r\n FreddysDailyPlanner.iOS -> FreddysDailyPlanner -> Xamarin.Essentials (>= 1.7.1) \r\n FreddysDailyPlanner.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 5.0.0.2337 to 5.0.0.2196. Reference the package directly from the project to select a different version. \r\n FreddysDailyPlanner.iOS -> FreddysDailyPlanner -> Xamarin.Forms (>= 5.0.0.2337) \r\n FreddysDailyPlanner.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

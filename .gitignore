@@ -28,3 +28,5 @@ google-services.json
 
 # Android Profiling
 *.hprof
+FreddysDailyPlanner/FreddysDailyPlanner.iOS/bin/iPhone/Debug/Plugin.CloudFirestore.dll
+FreddysDailyPlanner/FreddysDailyPlanner.iOS/bin/iPhone/Debug/Firebase.CloudFirestore.dll
